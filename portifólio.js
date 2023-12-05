@@ -56,6 +56,8 @@
     <link
       rel="stylesheet"
       type="text/css"
+      type = for number 4 text/class 
+      ref: y/l number 8 text/class
       href="vendor/slick/slick-theme.min.css"
     />
     <link href="css/style.min.css" rel="stylesheet" />
