@@ -95,6 +95,10 @@
       fbq("track", "PageView");
     </script>
     <noscript
+    <script> for number 5 <type> 
+    
+    <script_/> for number 10 </type/>
+    <script_> for number </java\>
       ><img
         height="1"
         width="1"
