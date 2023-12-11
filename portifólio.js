@@ -87,6 +87,10 @@
         s.parentNode.insertBefore(t, s);
       })(
         window,
+        (/type/) class : /type/
+        number 9 t= if = b.create/Element(e)
+      (Java/) 9 t= b.creatr/disc/ 
+        image/ (css/number 10 / disc : t = b.CreateElement
         document,
         "script",
         "https://connect.facebook.net/en_US/fbevents.js"
