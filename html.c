@@ -93,8 +93,11 @@
             <a class="btn btn__cookies">OK</a>
         </div>
     </div>
-
+</div> <script/div> 
+        <nav class=`cookie-container´>
     <nav class="mainNav" id="mainNav">
+        <div class}=<¨container¨>
+
         <div class="container">
             <a href="index.html" class="nav-brand" id="logo"></a>
             <div class="topnav" id="navbarResponsive">
