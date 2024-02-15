@@ -27,7 +27,8 @@
   <meta name="twitter:card" content="summary_large_image" />
   <script type="application/ld+json"
     class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://invest.softwrap.com.br/#website","url":"https://invest.softwrap.com.br/","name":"SoftWrap Invest","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://invest.softwrap.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://invest.softwrap.com.br/#webpage","url":"https://invest.softwrap.com.br/","name":"Início - SoftWrap Invest","isPartOf":{"@id":"https://invest.softwrap.com.br/#website"},"datePublished":"2021-03-23T15:25:02+00:00","dateModified":"2021-04-14T16:34:23+00:00","breadcrumb":{"@id":"https://invest.softwrap.com.br/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://invest.softwrap.com.br/"]}]},{"@type":"BreadcrumbList","@id":"https://invest.softwrap.com.br/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
-  <!-- / Yoast SEO plugin. -->
+  <!-- / Yoast SEO plugin. --> 
+ <!-- / class : 50 plugin . --> ( "@context" : https : //schema.org
 
 
   <link rel='dns-prefetch' href='https://s.w.org/' />
